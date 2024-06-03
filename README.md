@@ -1,6 +1,6 @@
 ### Hi there, I'm Fernando 
 
-- ⚡ I'm a front-end developer from Brazil.
+- ⚡ I'm a Front-End developer from Brazil.
 - 🌱 I’m currently learning TypeScript and Web Components.
 
 ---
